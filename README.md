@@ -1,5 +1,7 @@
 # Credit Card Balance Prediction
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+
 ## Project Overview
 This project develops a sophisticated predictive analytics framework for forecasting credit card balances by statistically modeling customer demographics and financial attributes. The implementation follows a structured data science workflow encompassing exploratory analysis, feature engineering, model development, and comprehensive validation methodologies to deliver production-grade predictive capabilities.
 
